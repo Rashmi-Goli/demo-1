@@ -8,7 +8,7 @@ OR
 
 
 
-## To access the application         
+## To access the application          
 Run 'curl localhost:8080/greeting or curl localhost:8080/greeting?name=<name>'
 
 or 
